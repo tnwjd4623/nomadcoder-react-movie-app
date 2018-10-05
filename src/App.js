@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Movie from './Movie';
+import logo from './nomadcoder-react-movie-app/src/logo.svg';
+import './nomadcoder-react-movie-app/src/App.css';
+import Movie from './nomadcoder-react-movie-app/src/Movie';
 
 class App extends Component {
 

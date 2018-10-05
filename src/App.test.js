@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import App from './nomadcoder-react-movie-app/src/App';
 
 it('renders without crashing', () => {
   const div = document.createElement('div');

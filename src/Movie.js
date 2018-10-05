@@ -1,5 +1,5 @@
 import React from 'react';
-import './Movie.css';
+import './nomadcoder-react-movie-app/src/Movie.css';
 import PropTypes from 'prop-types';
 import LinesEllipsis from 'react-lines-ellipsis'
 
